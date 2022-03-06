@@ -1,30 +1,30 @@
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item{
-    background:rgba(255, 255, 255, 0.4);
+    background:rgba(255, 255, 255, 0.8);
 }
 /* 首页侧栏卡片 */
 .card-widget{
-  background:rgba(255, 255, 255, 0.4)!important;
+  background:rgba(255, 255, 255, 0.8)!important;
 }
 /* 文章页面正文背景 */
 div#post{
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.8);
 }
 /* 分页页面 */
 div#page{
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.8);
 }
 /* 归档页面 */
 div#archive{
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.8);
 }
 /* 标签页面 */
 div#tag{
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.8);
 }
 /* 分类页面 */
 div#category{
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.8);
 }
 
 /* 页脚透明 */
@@ -82,7 +82,7 @@ div#category{
 
 svg.icon {
   /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */
-   width: 1em; height: 1em;
+   width: 0.7em; height: 0.7em;
    /* width和height定义图标的默认宽度和高度*/
    vertical-align: -0.15em;
    fill: currentColor;
