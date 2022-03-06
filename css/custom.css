@@ -88,3 +88,9 @@ svg.icon {
    fill: currentColor;
    overflow: hidden;
 }
+
+@font-face{
+  font-family:'xiaokai' ;  /* 字体名自定义即可 */
+  src:url('/fonts/小楷字体SJ2.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
